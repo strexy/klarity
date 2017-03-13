@@ -1,2 +1,2 @@
-# klarity
-This is a test for a style guideline.
+# Klarity
+This is a draft for a web style guideline.
